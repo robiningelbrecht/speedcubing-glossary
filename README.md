@@ -2,30 +2,32 @@
 A glossary of some of the most common speedcubing terms and acronyms.
 
 <!--START_SECTION:glossary-->
-[<kbd>A</kbd>](#A)
- | [<kbd>B</kbd>](#B)
- | [<kbd>C</kbd>](#C)
- | [<kbd>D</kbd>](#D)
- | [<kbd>E</kbd>](#E)
- | [<kbd>F</kbd>](#F)
- | [<kbd>G</kbd>](#G)
- | [<kbd>H</kbd>](#H)
- | [<kbd>I</kbd>](#I)
- | [<kbd>L</kbd>](#L)
- | [<kbd>M</kbd>](#M)
- | [<kbd>N</kbd>](#N)
- | [<kbd>O</kbd>](#O)
- | [<kbd>P</kbd>](#P)
- | [<kbd>Q</kbd>](#Q)
- | [<kbd>R</kbd>](#R)
- | [<kbd>S</kbd>](#S)
- | [<kbd>T</kbd>](#T)
- | [<kbd>U</kbd>](#U)
- | [<kbd>V</kbd>](#V)
- | [<kbd>W</kbd>](#W)
- | [<kbd>Y</kbd>](#Y)
- | [<kbd>Z</kbd>](#Z)
- | [<kbd>0-9</kbd>](#0-9)
+<p align="center">
+    <a href="#A">A</a>
+ |     <a href="#B">B</a>
+ |     <a href="#C">C</a>
+ |     <a href="#D">D</a>
+ |     <a href="#E">E</a>
+ |     <a href="#F">F</a>
+ |     <a href="#G">G</a>
+ |     <a href="#H">H</a>
+ |     <a href="#I">I</a>
+ |     <a href="#L">L</a>
+ |     <a href="#M">M</a>
+ |     <a href="#N">N</a>
+ |     <a href="#O">O</a>
+ |     <a href="#P">P</a>
+ |     <a href="#Q">Q</a>
+ |     <a href="#R">R</a>
+ |     <a href="#S">S</a>
+ |     <a href="#T">T</a>
+ |     <a href="#U">U</a>
+ |     <a href="#V">V</a>
+ |     <a href="#W">W</a>
+ |     <a href="#Y">Y</a>
+ |     <a href="#Z">Z</a>
+ |     <a href="#0-9">0-9</a>
+</p>
 
 
 ## A

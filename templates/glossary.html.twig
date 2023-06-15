@@ -1,7 +1,9 @@
+<p align="center">
 {% for section in glossary.getSections() %}
-[<kbd>{{ section }}</kbd>](#{{ section }})
+    <a href="#{{ section }}">{{ section }}</a>
 {% if loop.last == false  %} | {% endif%}
 {% endfor %}
+</p>
 
 {% for section in glossary.getSections() %}
 
