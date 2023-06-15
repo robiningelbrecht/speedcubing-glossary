@@ -170,5 +170,17 @@
   {
     "name": "Cube Rotation",
     "description": "Rotating the cube in place without turning any of the sides. The three rotational axes used in cube notation are x y and z."
+  },
+  {
+    "name": "DNS",
+    "description": "Did Not Start"
+  },
+  {
+    "name": "Edge",
+    "description": "Refers to the edge pieces on the Rubik's cube, which have two different colours."
+  },
+  {
+    "name": "Edge Control",
+    "description": "Intentionally orienting last layer edges whilst solving the first two layers."
   }
 ]

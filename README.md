@@ -2,12 +2,11 @@
 A glossary of some of the most common speedcubing terms and acronyms.
 
 <!--START_SECTION:glossary-->
-[<kbd>+</kbd>](#+)
- | [<kbd>2</kbd>](#2)
- | [<kbd>A</kbd>](#A)
+[<kbd>A</kbd>](#A)
  | [<kbd>B</kbd>](#B)
  | [<kbd>C</kbd>](#C)
  | [<kbd>D</kbd>](#D)
+ | [<kbd>E</kbd>](#E)
  | [<kbd>F</kbd>](#F)
  | [<kbd>I</kbd>](#I)
  | [<kbd>L</kbd>](#L)
@@ -17,18 +16,7 @@ A glossary of some of the most common speedcubing terms and acronyms.
  | [<kbd>R</kbd>](#R)
  | [<kbd>S</kbd>](#S)
  | [<kbd>W</kbd>](#W)
-
-## +
-
-<kbd>+2</kbd>: The standard time penalty in WCA competitions, plus two seconds.
-
-
-## 2
-
-<kbd>2GLL</kbd>: 2-Generator Last Layer. These algorithms are used for the ZBLL cases which require only edge permutation and corner orientation.
-
-<kbd>2LLL</kbd>: 2 Look Last Layer - solving the last layer in two steps or &#039;looks&#039;. For the CFOP method, this generally refers to OLL and PLL.
-
+ | [<kbd>0-9</kbd>](#0-9)
 
 ## A
 
@@ -88,6 +76,15 @@ A glossary of some of the most common speedcubing terms and acronyms.
 ## D
 
 <kbd>DNF</kbd>: Did not finish. You get this penalty when you don&#039;t finish the cube inspection in 15 seconds or the cube is not in solved position when you stop the timer.
+
+<kbd>DNS</kbd>: Did Not Start
+
+
+## E
+
+<kbd>Edge</kbd>: Refers to the edge pieces on the Rubik&#039;s cube, which have two different colours.
+
+<kbd>Edge Control</kbd>: Intentionally orienting last layer edges whilst solving the first two layers.
 
 
 ## F
@@ -149,6 +146,15 @@ A glossary of some of the most common speedcubing terms and acronyms.
 ## W
 
 <kbd>WCA</kbd>: World Cube Association
+
+
+## 0-9
+
+<kbd>+2</kbd>: The standard time penalty in WCA competitions, plus two seconds.
+
+<kbd>2GLL</kbd>: 2-Generator Last Layer. These algorithms are used for the ZBLL cases which require only edge permutation and corner orientation.
+
+<kbd>2LLL</kbd>: 2 Look Last Layer - solving the last layer in two steps or &#039;looks&#039;. For the CFOP method, this generally refers to OLL and PLL.
 
 
 <!--END_SECTION:glossary-->
