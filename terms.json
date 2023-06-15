@@ -48,8 +48,12 @@
         "description": "Refers to the middle piece on each side of a Rubik's cube. For bigger cubes, it refers to the pieces with only one colour."
     },
     {
+        "name": "Centre piece",
+        "description": "A centre piece is a piece, or pieces resp., in the middle of a cube."
+    },
+    {
         "name": "CFOP",
-        "description": "Cross-F2L-OLL-PLL. The most commonly used speedsolving method."
+        "description": "The most common speedsolving method, which solves the cube in the following sequence: Cross-F2L-OLL-PLL"
     },
     {
         "name": "CLL",
@@ -68,6 +72,10 @@
         "description": "The solver is able to create the cross on any colour, and therefore has 6 different options for cross to pick from"
     },
     {
+        "name": "Colour scheme",
+        "description": "The color layout of the cube."
+    },
+    {
         "name": "Commutator",
         "description": "A sequence of moves of the form A-B-A'-B'. Example: (R' D' R) (U) (R' D R) (U')\n\n"
     },
@@ -82,6 +90,10 @@
     {
         "name": "Corner Cutting",
         "description": "Speed cube pieces have the ability to move slightly without the whole puzzle falling apart. This ability is called corner cutting."
+    },
+    {
+        "name": "Corner piece",
+        "description": "Corner pieces, as the name suggests, are located at the corners of the cube."
     },
     {
         "name": "Corner Twists",
@@ -100,6 +112,14 @@
         "description": "Rotating the cube in place without turning any of the sides. The three rotational axes used in cube notation are x y and z."
     },
     {
+        "name": "Cubelet",
+        "description": "A single cube piece is sometimes called a cubelet or cubie."
+    },
+    {
+        "name": "Devil's number",
+        "description": "The term devil's number refers to the number of moves required to solve a cube from any starting configuration using a single repeating algorithm. Devil's algorithm is the algorithm needed to achieve this task. To this day, neither man nor machine were able to calculate the devil's algorithm, or the devil\u2019s number, for the 2x2 cube or the other larger models. These calculations result in an unimaginably large number of possibilities that, so far, could not be captured."
+    },
+    {
         "name": "DNF",
         "description": "Did not finish. You get this penalty when you don't finish the cube inspection in 15 seconds or the cube is not in solved position when you stop the timer."
     },
@@ -116,8 +136,36 @@
         "description": "Intentionally orienting last layer edges whilst solving the first two layers."
     },
     {
+        "name": "Edge piece",
+        "description": "Edge pieces are the outer pieces located between the corner pieces of a cube. A 3x3 cube, therefore, has one piece per side between the corner pieces, a 4x4 cube two pieces per side."
+    },
+    {
+        "name": "ELL",
+        "description": "Edges of Last Layer"
+    },
+    {
+        "name": "EO",
+        "description": "Edge Orientation"
+    },
+    {
+        "name": "EP",
+        "description": "Edge Permutation"
+    },
+    {
+        "name": "Extended Cross",
+        "description": "Solving the cross and one F2L pair at the same time, also referred to as 'X-Cross'"
+    },
+    {
         "name": "F2L",
         "description": "First 2 Layers. This step involves inserting \u201cpairs\u201d of corners and edges into the spaces around the four edges dependent on the centres"
+    },
+    {
+        "name": "Face",
+        "description": "A single surface of a Rubik's cube."
+    },
+    {
+        "name": "Fewest moves",
+        "description": "Fewest moves means you solve a speed cube in as few moves as possible."
     },
     {
         "name": "Florian Mod",
@@ -128,8 +176,32 @@
         "description": "Fewest Moves Challenge"
     },
     {
+        "name": "Fridrich Method",
+        "description": "Also known as CFOP, the most common speedsolving method, which solves the cube in the following sequence: Cross-F2L-OLL-PLL"
+    },
+    {
+        "name": "God's number",
+        "description": "God's number, also called \"God's algorithm\", is the minimum number of moves needed to solve a cube, regardless of the starting configuration."
+    },
+    {
+        "name": "Half-Turn",
+        "description": "Any 180 degree turn of the Rubik's cube."
+    },
+    {
         "name": "Inspection",
         "description": "The time used to inspect the cube before starting a solve. In WCA competitions, the maximum inspection time is 15 seconds."
+    },
+    {
+        "name": "Layer",
+        "description": "Refers to all of the pieces which make up one rotational side of a Rubik's cube.\n\n"
+    },
+    {
+        "name": "LBL",
+        "description": "Layer By Layer"
+    },
+    {
+        "name": "LL",
+        "description": "Last layer"
     },
     {
         "name": "Lock-up \/ locking",
@@ -140,8 +212,24 @@
         "description": "Planning future stages of a speedsolve whilst executing moves to solve the pieces of the current stage."
     },
     {
+        "name": "MagLev",
+        "description": "MagLev is short for magnetic levitation or magnetic levitation force, respectively. Cubes with MagLev construction have in their tensioning system two superimposed magnets whose like poles face, and thus repel, each other."
+    },
+    {
         "name": "MBLD",
         "description": "Multi-blindfolded speedcubing - refers to solving cubes blindfolded."
+    },
+    {
+        "name": "Move Count",
+        "description": "The number of moves used in a Rubik's cube solve."
+    },
+    {
+        "name": "Multislotting",
+        "description": "Intentionally inserting F2L pairs in a manner which influences subsequent F2L pairs in your favour."
+    },
+    {
+        "name": "Niklas",
+        "description": "The algorithm R U' L' U R' U' L, which re-orients 3 corners clockwise."
     },
     {
         "name": "OH",
@@ -152,12 +240,28 @@
         "description": "Orientation of Last Layer"
     },
     {
-        "name": "Parity Error",
-        "description": "Cubes that are 4x4 and larger can run into patterns that are not possible on a regular 3x3 cube.  When edge pieces are paired up they might be paired in a way that makes the cube unsolvable with algorithms a cuber would use on a 3x3."
+        "name": "OLLCP",
+        "description": "Orientation of Last Layer + Corner Permutation"
+    },
+    {
+        "name": "Overshooting",
+        "description": "Overshooting describes a rotation that goes further than desired. For example, you intend to rotate a layer by 90 degrees, but due to high speed, it overshoots and turns 180 degrees instead."
+    },
+    {
+        "name": "Parity",
+        "description": "Parity in a speedsolving context generally refers to additional steps required to solve a puzzle in cases where there are (or appear to be) an odd number of piece swaps on a cube."
     },
     {
         "name": "PB",
         "description": "If a speedcuber solves a puzzle faster than they have ever done before, it is known as a PB or personal best. "
+    },
+    {
+        "name": "PBL",
+        "description": "Permutation of Both Layers, a step used in some common 2x2 methods which permute the top and bottom layer corners."
+    },
+    {
+        "name": "Petrus Method",
+        "description": "A 3x3 speedsolving method developed by Lars Petrus which has a strong emphasis on blockbuilding."
     },
     {
         "name": "PLL",
@@ -165,7 +269,15 @@
     },
     {
         "name": "Popping",
-        "description": "Since the pieces of a cube can move around it is possible for them to pop out completely.  It can be caused by loose tensions, rough turning, or be result of the mechanism that is used in a specific puzzle."
+        "description": "Since the pieces of a cube can move around it is possible for them to pop out completely. It can be caused by loose tensions, rough turning, or be result of the mechanism that is used in a specific puzzle."
+    },
+    {
+        "name": "Quarter Turn",
+        "description": "Any 90 degree turn of the Rubik's cube."
+    },
+    {
+        "name": "Reduction",
+        "description": "A common big cube solving method whereby the cuber solves the center pieces into place, followed by pairing up edge pieces to effectively 'reduce' the big cube to a 3x3."
     },
     {
         "name": "Roux",
@@ -176,11 +288,79 @@
         "description": "A scramble is another simple term that consists of 20 randomly generated moves in standard notation that will leave the cube in an unsolved state ready for a solver to attempt"
     },
     {
+        "name": "Sculpted design",
+        "description": "The term 'sculpted design' describes puzzles with a special surface."
+    },
+    {
+        "name": "Sexy Move",
+        "description": "Refers to the move sequence R U R' U'"
+    },
+    {
+        "name": "Side",
+        "description": "A single surface of a Rubik's cube."
+    },
+    {
+        "name": "Sledgehammer",
+        "description": "Refers to the move sequence R' F R F'"
+    },
+    {
+        "name": "Slice Move",
+        "description": "On a 3x3, a slice move refers to the notated moves M, E, and S."
+    },
+    {
+        "name": "Stickered",
+        "description": "Stickered cubes usually have a monochrome (often black) interior and coloured stickers"
+    },
+    {
+        "name": "Stickerless",
+        "description": "Stickerless cubes are made of coloured plastic pieces. This has the advantage that there are no stickers to be replaced."
+    },
+    {
         "name": "Sub-X",
         "description": "A single solve or average that is under a certain time"
     },
     {
+        "name": "Sune",
+        "description": "The algorithm R U R' U R U2 R'"
+    },
+    {
+        "name": "TPS",
+        "description": "Turns Per Second"
+    },
+    {
+        "name": "UWR",
+        "description": "Turns Per Second"
+    },
+    {
+        "name": "VLS",
+        "description": "Valk Last Slot. VLS algorithms solve the final F2L slot and OLL at the same time, in the cases where you have a connected F2L pair."
+    },
+    {
         "name": "WCA",
         "description": "World Cube Association"
+    },
+    {
+        "name": "WR",
+        "description": "World Record"
+    },
+    {
+        "name": "WV",
+        "description": "Winter Variation. These algorithms are used to orient the corners of your last layer whilst you insert your final F2L pair, in the case where the pair is connected."
+    },
+    {
+        "name": "Yau",
+        "description": "A big cube speedsolving method proposed by Robert Yau, whereby the cross is solved before the cube is fully reduced to the 3x3 stage."
+    },
+    {
+        "name": "ZBF2L",
+        "description": "Zborowski-Bruchem First 2 Layers. These algorithms solve the final F2L pair and orient the edges of the last layer to set up for ZBLL."
+    },
+    {
+        "name": "ZBLL",
+        "description": "Zborowski-Bruchem Last Layer. These algorithms solve the entire last layer in 1 step, when the last layer edges are oriented."
+    },
+    {
+        "name": "ZZ",
+        "description": "A 3x3 speedsolving method created by Zbiginiew Zborowski in which the first step involves orienting all edges on the cube."
     }
 ]
