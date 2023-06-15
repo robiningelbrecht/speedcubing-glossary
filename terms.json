@@ -1,186 +1,186 @@
 [
-  {
-    "name": "PB",
-    "description": "If a speedcuber solves a puzzle faster than they have ever done before, it is known as a PB or personal best. "
-  },
-  {
-    "name": "DNF",
-    "description": "Did not finish. You get this penalty when you don't finish the cube inspection in 15 seconds or the cube is not in solved position when you stop the timer."
-  },
-  {
-    "name": "Ao5, Ao12, ...",
-    "description": "most of the bragging rights within the community go to the best averages solvers can achieve. An Average of 5 (Ao5) is calculated using any five consecutive solves."
-  },
-  {
-    "name": "Cross",
-    "description": "The cross generally refers to correctly solving 4 edge pieces around a center piece, to form a 'plus' or 'cross' out of the center and edge stickers."
-  },
-  {
-    "name": "F2L",
-    "description": "First 2 Layers. This step involves inserting “pairs” of corners and edges into the spaces around the four edges dependent on the centres"
-  },
-  {
-    "name": "OLL",
-    "description": "Orientation of Last Layer"
-  },
-  {
-    "name": "PLL",
-    "description": "Permutation of Last Layer"
-  },
-  {
-    "name": "CFOP",
-    "description": "Cross-F2L-OLL-PLL. The most commonly used speedsolving method."
-  },
-  {
-    "name": "Colour Neutrality",
-    "description": "The solver is able to create the cross on any colour, and therefore has 6 different options for cross to pick from"
-  },
-  {
-    "name": "Look-Ahead",
-    "description": "Planning future stages of a speedsolve whilst executing moves to solve the pieces of the current stage."
-  },
-  {
-    "name": "BLD",
-    "description": "Blindfolded speedcubing - refers to solving cubes blindfolded."
-  },
-  {
-    "name": "MBLD",
-    "description": "Multi-blindfolded speedcubing - refers to solving cubes blindfolded."
-  },
-  {
-    "name": "OH",
-    "description": "One-Handed speedcubing - refers to solving cubes with one hand."
-  },
-  {
-    "name": "FMC",
-    "description": "Fewest Moves Challenge"
-  },
-  {
-    "name": "Scramble",
-    "description": "A scramble is another simple term that consists of 20 randomly generated moves in standard notation that will leave the cube in an unsolved state ready for a solver to attempt"
-  },
-  {
-    "name": "WCA",
-    "description": "World Cube Association"
-  },
-  {
-    "name": "Sub-X",
-    "description": "A single solve or average that is under a certain time"
-  },
-  {
-    "name": "Roux",
-    "description": "A 3x3 speedsolving method developed by Gilles Roux in which 1x2x3 blocks are built on the left and right sides of the cube to begin the solve."
-  },
-  {
-    "name": "Inspection",
-    "description": "The time used to inspect the cube before starting a solve. In WCA competitions, the maximum inspection time is 15 seconds."
-  },
-  {
-    "name": "+2",
-    "description": "The standard time penalty in WCA competitions, plus two seconds."
-  },
-  {
-    "name": "2GLL",
-    "description": "2-Generator Last Layer. These algorithms are used for the ZBLL cases which require only edge permutation and corner orientation."
-  },
-  {
-    "name": "2LLL",
-    "description": "2 Look Last Layer - solving the last layer in two steps or 'looks'. For the CFOP method, this generally refers to OLL and PLL."
-  },
-  {
-    "name": "Corner Cutting",
-    "description": "Speed cube pieces have the ability to move slightly without the whole puzzle falling apart. This ability is called corner cutting."
-  },
-  {
-    "name": "Lock-up / locking",
-    "description": "Lock-up or locking are terms used to describe when the cube jams. When a piece, one or even multiple layers are misaligned, you won’t be able to execute the turn correctly and the cube locks up. "
-  },
-  {
-    "name": "Corner Twists",
-    "description": "Sometimes corners can twist in their place. A puzzle cannot be solved when a single corner twists in it's place"
-  },
-  {
-    "name": "Popping",
-    "description": "Since the pieces of a cube can move around it is possible for them to pop out completely.  It can be caused by loose tensions, rough turning, or be result of the mechanism that is used in a specific puzzle."
-  },
-  {
-    "name": "Florian Mod",
-    "description": "Cubes that are said to have a florian mod have curved corners to help the pieces to move more easily around each other."
-  },
-  {
-    "name": "Parity Error",
-    "description": "Cubes that are 4x4 and larger can run into patterns that are not possible on a regular 3x3 cube.  When edge pieces are paired up they might be paired in a way that makes the cube unsolvable with algorithms a cuber would use on a 3x3."
-  },
-  {
-    "name": "AUF",
-    "description": "Adjusting \"U\" Face"
-  },
-  {
-    "name": "Algorithm",
-    "description": "An algorithm is a sequence of moves designed to achieve a particular outcome on a puzzle."
-  },
-  {
-    "name": "Anti-Sune",
-    "description": "The inverse of the Sune algorithm, the Anti-Sune algorithm re-orients 3 corners anticlockwise."
-  },
-  {
-    "name": "Beginner's method",
-    "description": "A beginner's method refers to speedsolving methods designed for beginners, which often have many steps to simplify the process."
-  },
-  {
-    "name": "BLE",
-    "description": "Brooks' Last Edge. These algorithms insert an edge into your your last F2L slot and orient the corners of the last layer."
-  },
-  {
-    "name": "Blockbuilding",
-    "description": "Blockbuilding generally refers to inuitively solving blocks of pieces around the cube, in contrast to algorithmic speedcubing approaches."
-  },
-  {
-    "name": "Center",
-    "description": "Refers to the middle piece on each side of a Rubik's cube. For bigger cubes, it refers to the pieces with only one colour."
-  },
-  {
-    "name": "CLL",
-    "description": "Corners of Last Layer. These algorithms solve the corners of the last layer, as their name suggests."
-  },
-  {
-    "name": "CLS",
-    "description": "Corner Last Slot. CLS algorithms solve the last F2L corner and orient your last layer at the same time. They are used when the edge of your final F2L pair is already solved, and the last layer edges are oriented."
-  },
-  {
-    "name": "COLL",
-    "description": "Corners and Orientation of Last Layer. COLL algorithms are used to orient and permute the corners of your last layer at the same time."
-  },
-  {
-    "name": "Commutator",
-    "description": "A sequence of moves of the form A-B-A'-B'. Example: (R' D' R) (U) (R' D R) (U')\n\n"
-  },
-  {
-    "name": "Conjugate",
-    "description": "A  sequence of moves of the form A-B-A'. Example: (R U2 R') (R' F R F') (R U2 R')"
-  },
-  {
-    "name": "Corner",
-    "description": "Refers to the corner pieces on the Rubik's cube, which are the pieces with three different colours."
-  },
-  {
-    "name": "CP",
-    "description": "Corner Permutation"
-  },
-  {
-    "name": "Cube Rotation",
-    "description": "Rotating the cube in place without turning any of the sides. The three rotational axes used in cube notation are x y and z."
-  },
-  {
-    "name": "DNS",
-    "description": "Did Not Start"
-  },
-  {
-    "name": "Edge",
-    "description": "Refers to the edge pieces on the Rubik's cube, which have two different colours."
-  },
-  {
-    "name": "Edge Control",
-    "description": "Intentionally orienting last layer edges whilst solving the first two layers."
-  }
+    {
+        "name": "+2",
+        "description": "The standard time penalty in WCA competitions, plus two seconds."
+    },
+    {
+        "name": "2GLL",
+        "description": "2-Generator Last Layer. These algorithms are used for the ZBLL cases which require only edge permutation and corner orientation."
+    },
+    {
+        "name": "2LLL",
+        "description": "2 Look Last Layer - solving the last layer in two steps or 'looks'. For the CFOP method, this generally refers to OLL and PLL."
+    },
+    {
+        "name": "Algorithm",
+        "description": "An algorithm is a sequence of moves designed to achieve a particular outcome on a puzzle."
+    },
+    {
+        "name": "Anti-Sune",
+        "description": "The inverse of the Sune algorithm, the Anti-Sune algorithm re-orients 3 corners anticlockwise."
+    },
+    {
+        "name": "Ao5, Ao12, ...",
+        "description": "most of the bragging rights within the community go to the best averages solvers can achieve. An Average of 5 (Ao5) is calculated using any five consecutive solves."
+    },
+    {
+        "name": "AUF",
+        "description": "Adjusting \"U\" Face"
+    },
+    {
+        "name": "Beginner's method",
+        "description": "A beginner's method refers to speedsolving methods designed for beginners, which often have many steps to simplify the process."
+    },
+    {
+        "name": "BLD",
+        "description": "Blindfolded speedcubing - refers to solving cubes blindfolded."
+    },
+    {
+        "name": "BLE",
+        "description": "Brooks' Last Edge. These algorithms insert an edge into your your last F2L slot and orient the corners of the last layer."
+    },
+    {
+        "name": "Blockbuilding",
+        "description": "Blockbuilding generally refers to inuitively solving blocks of pieces around the cube, in contrast to algorithmic speedcubing approaches."
+    },
+    {
+        "name": "Center",
+        "description": "Refers to the middle piece on each side of a Rubik's cube. For bigger cubes, it refers to the pieces with only one colour."
+    },
+    {
+        "name": "CFOP",
+        "description": "Cross-F2L-OLL-PLL. The most commonly used speedsolving method."
+    },
+    {
+        "name": "CLL",
+        "description": "Corners of Last Layer. These algorithms solve the corners of the last layer, as their name suggests."
+    },
+    {
+        "name": "CLS",
+        "description": "Corner Last Slot. CLS algorithms solve the last F2L corner and orient your last layer at the same time. They are used when the edge of your final F2L pair is already solved, and the last layer edges are oriented."
+    },
+    {
+        "name": "COLL",
+        "description": "Corners and Orientation of Last Layer. COLL algorithms are used to orient and permute the corners of your last layer at the same time."
+    },
+    {
+        "name": "Colour Neutrality",
+        "description": "The solver is able to create the cross on any colour, and therefore has 6 different options for cross to pick from"
+    },
+    {
+        "name": "Commutator",
+        "description": "A sequence of moves of the form A-B-A'-B'. Example: (R' D' R) (U) (R' D R) (U')\n\n"
+    },
+    {
+        "name": "Conjugate",
+        "description": "A  sequence of moves of the form A-B-A'. Example: (R U2 R') (R' F R F') (R U2 R')"
+    },
+    {
+        "name": "Corner",
+        "description": "Refers to the corner pieces on the Rubik's cube, which are the pieces with three different colours."
+    },
+    {
+        "name": "Corner Cutting",
+        "description": "Speed cube pieces have the ability to move slightly without the whole puzzle falling apart. This ability is called corner cutting."
+    },
+    {
+        "name": "Corner Twists",
+        "description": "Sometimes corners can twist in their place. A puzzle cannot be solved when a single corner twists in it's place"
+    },
+    {
+        "name": "CP",
+        "description": "Corner Permutation"
+    },
+    {
+        "name": "Cross",
+        "description": "The cross generally refers to correctly solving 4 edge pieces around a center piece, to form a 'plus' or 'cross' out of the center and edge stickers."
+    },
+    {
+        "name": "Cube Rotation",
+        "description": "Rotating the cube in place without turning any of the sides. The three rotational axes used in cube notation are x y and z."
+    },
+    {
+        "name": "DNF",
+        "description": "Did not finish. You get this penalty when you don't finish the cube inspection in 15 seconds or the cube is not in solved position when you stop the timer."
+    },
+    {
+        "name": "DNS",
+        "description": "Did Not Start"
+    },
+    {
+        "name": "Edge",
+        "description": "Refers to the edge pieces on the Rubik's cube, which have two different colours."
+    },
+    {
+        "name": "Edge Control",
+        "description": "Intentionally orienting last layer edges whilst solving the first two layers."
+    },
+    {
+        "name": "F2L",
+        "description": "First 2 Layers. This step involves inserting \u201cpairs\u201d of corners and edges into the spaces around the four edges dependent on the centres"
+    },
+    {
+        "name": "Florian Mod",
+        "description": "Cubes that are said to have a florian mod have curved corners to help the pieces to move more easily around each other."
+    },
+    {
+        "name": "FMC",
+        "description": "Fewest Moves Challenge"
+    },
+    {
+        "name": "Inspection",
+        "description": "The time used to inspect the cube before starting a solve. In WCA competitions, the maximum inspection time is 15 seconds."
+    },
+    {
+        "name": "Lock-up \/ locking",
+        "description": "Lock-up or locking are terms used to describe when the cube jams. When a piece, one or even multiple layers are misaligned, you won\u2019t be able to execute the turn correctly and the cube locks up. "
+    },
+    {
+        "name": "Look-Ahead",
+        "description": "Planning future stages of a speedsolve whilst executing moves to solve the pieces of the current stage."
+    },
+    {
+        "name": "MBLD",
+        "description": "Multi-blindfolded speedcubing - refers to solving cubes blindfolded."
+    },
+    {
+        "name": "OH",
+        "description": "One-Handed speedcubing - refers to solving cubes with one hand."
+    },
+    {
+        "name": "OLL",
+        "description": "Orientation of Last Layer"
+    },
+    {
+        "name": "Parity Error",
+        "description": "Cubes that are 4x4 and larger can run into patterns that are not possible on a regular 3x3 cube.  When edge pieces are paired up they might be paired in a way that makes the cube unsolvable with algorithms a cuber would use on a 3x3."
+    },
+    {
+        "name": "PB",
+        "description": "If a speedcuber solves a puzzle faster than they have ever done before, it is known as a PB or personal best. "
+    },
+    {
+        "name": "PLL",
+        "description": "Permutation of Last Layer"
+    },
+    {
+        "name": "Popping",
+        "description": "Since the pieces of a cube can move around it is possible for them to pop out completely.  It can be caused by loose tensions, rough turning, or be result of the mechanism that is used in a specific puzzle."
+    },
+    {
+        "name": "Roux",
+        "description": "A 3x3 speedsolving method developed by Gilles Roux in which 1x2x3 blocks are built on the left and right sides of the cube to begin the solve."
+    },
+    {
+        "name": "Scramble",
+        "description": "A scramble is another simple term that consists of 20 randomly generated moves in standard notation that will leave the cube in an unsolved state ready for a solver to attempt"
+    },
+    {
+        "name": "Sub-X",
+        "description": "A single solve or average that is under a certain time"
+    },
+    {
+        "name": "WCA",
+        "description": "World Cube Association"
+    }
 ]

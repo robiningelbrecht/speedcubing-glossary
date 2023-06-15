@@ -37,12 +37,12 @@ class Glossary
         return $terms;
     }
 
-    public static function fromJson(string $json): self
+    public static function fromPathToJsonFile(string $path): self
     {
         $terms = array_map(fn(array $item) => Term::fromNameAndDescription(
             $item['name'],
             $item['description']
-        ), json_decode($json, true));
+        ), json_decode(file_get_contents($path), true));
 
         return new self(...$terms);
     }
