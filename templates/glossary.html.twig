@@ -7,7 +7,7 @@
 ## {{ section }}
 
 {% for term in glossary.getTermsForSection(section) %}
-<kbd>{{ term.getName() }}</kbd>: {{ term.getDescription() }}
+***{{ term.getName() }}***: {{ term.getDescription() }}
 
 {% endfor %}
 {% endfor %}
