@@ -15,6 +15,7 @@ require __DIR__ . '/vendor/autoload.php';
 $loader = new FilesystemLoader(__DIR__ . '/templates');
 $twig = new Environment($loader);
 
+// Build readme.
 $pathToTerms = __DIR__ . '/terms.json';
 $glossary = Glossary::fromPathToJsonFile($pathToTerms);
 $template = $twig->load('glossary.html.twig');
@@ -26,6 +27,12 @@ $readme->updateGlossary($template->render([
     'glossary' => $glossary,
 ]));
 file_put_contents($pathToReadMe, (string)$readme);
+
+// Build HTML version.
+$template = $twig->load('index.html.twig');
+file_put_contents(__DIR__.'/build/index.html', $template->render([
+    'glossary' => $glossary,
+]));
 
 // Sort the term.json file for convenience.
 $json = json_decode(file_get_contents($pathToTerms), true);
