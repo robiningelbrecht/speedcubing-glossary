@@ -2,12 +2,17 @@
 [<kbd>{{ section }}</kbd>](#{{ section }})
 {% if loop.last == false  %} | {% endif%}
 {% endfor %}
+
 {% for section in glossary.getSections() %}
 
 ## {{ section }}
 
+<table>
 {% for term in glossary.getTermsForSection(section) %}
-<kbd>{{ term.getName() }}</kbd>: {{ term.getDescription() }}
-
+    <tr>
+        <td><strong>{{ term.getName() }}</strong></td>
+        <td>{{ term.getDescription() }}</td>
+    </tr>
 {% endfor %}
+</table>
 {% endfor %}
