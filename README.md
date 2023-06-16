@@ -1,5 +1,12 @@
-# Speedcubing Glossary
+<h1 align="center">Speedcubing Glossary</h1>
+<p align="center">
+	<img src="build/logo.png" alt="Logo" width="200">
+</p>
+<p align="center">
 A glossary of some of the most common speedcubing terms and acronyms.
+</p>
+
+---
 
 <!--START_SECTION:glossary-->
 <p align="center">
