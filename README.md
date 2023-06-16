@@ -55,6 +55,10 @@ A glossary of some of the most common speedcubing terms and acronyms.
 
 <table>
     <tr>
+        <td><strong>Bandaged cube</strong></td>
+        <td>Puzzles which restrict the ways you can turn them by having the mechanism designed to get in the way and be annoying.</td>
+    </tr>
+    <tr>
         <td><strong>Beginner&#039;s method</strong></td>
         <td>A beginner&#039;s method refers to speedsolving methods designed for beginners, which often have many steps to simplify the process.</td>
     </tr>
@@ -134,6 +138,10 @@ A glossary of some of the most common speedcubing terms and acronyms.
         <td>Corner pieces, as the name suggests, are located at the corners of the cube.</td>
     </tr>
     <tr>
+        <td><strong>Corner turning</strong></td>
+        <td>uzzles which have their centers on the corner and everything rotates around the corner like a Skewb.</td>
+    </tr>
+    <tr>
         <td><strong>Corner Twists</strong></td>
         <td>Sometimes corners can twist in their place. A puzzle cannot be solved when a single corner twists in it&#039;s place</td>
     </tr>
@@ -164,6 +172,10 @@ A glossary of some of the most common speedcubing terms and acronyms.
     <tr>
         <td><strong>Cubing</strong></td>
         <td>The action of solving TwistyPuzzles.</td>
+    </tr>
+    <tr>
+        <td><strong>Cuboid</strong></td>
+        <td> face turning puzzles where at least one of the dimensions is different from the others like a 3x3x5 or a 2x4x6.</td>
     </tr>
 </table>
 
@@ -202,6 +214,10 @@ A glossary of some of the most common speedcubing terms and acronyms.
     <tr>
         <td><strong>ELL</strong></td>
         <td>Edges of Last Layer</td>
+    </tr>
+    <tr>
+        <td><strong>End by end by end</strong></td>
+        <td>Face turning puzzles with the same dimensions on all sides like a 3x3x3, 7x7x7 or 21x21x21.</td>
     </tr>
     <tr>
         <td><strong>EO</strong></td>
@@ -253,6 +269,10 @@ A glossary of some of the most common speedcubing terms and acronyms.
 ## G
 
 <table>
+    <tr>
+        <td><strong>Gear puzzle</strong></td>
+        <td>A series of puzzles which have gears as a component of the pieces. As you turn the puzzle the gears spin.</td>
+    </tr>
     <tr>
         <td><strong>Global average</strong></td>
         <td>Overall average time it takes to solve a twisty puzzle.</td>
@@ -320,12 +340,20 @@ A glossary of some of the most common speedcubing terms and acronyms.
         <td>MagLev is short for magnetic levitation or magnetic levitation force, respectively. Cubes with MagLev construction have in their tensioning system two superimposed magnets whose like poles face, and thus repel, each other.</td>
     </tr>
     <tr>
+        <td><strong>Magnetic Cube</strong></td>
+        <td>Cube with magnets on the pieces which attract each other, allowing the cube to snap into alignment and less likely to lock up from misalignment.</td>
+    </tr>
+    <tr>
         <td><strong>MBLD</strong></td>
         <td>Multi-blindfolded speedcubing - refers to solving cubes blindfolded.</td>
     </tr>
     <tr>
         <td><strong>Mechanism</strong></td>
         <td>The components of a twisty puzzle that allow it to fit together and actually work.</td>
+    </tr>
+    <tr>
+        <td><strong>Mod</strong></td>
+        <td>Any kind of modification done to a puzzle.</td>
     </tr>
     <tr>
         <td><strong>Move Count</strong></td>
@@ -446,6 +474,14 @@ A glossary of some of the most common speedcubing terms and acronyms.
         <td>Refers to the move sequence R U R&#039; U&#039;</td>
     </tr>
     <tr>
+        <td><strong>Shape mod</strong></td>
+        <td>A puzzle which uses the same mechanism as a simple puzzle like a 3x3 but different shaped pieces to add complexities like shape shifting.</td>
+    </tr>
+    <tr>
+        <td><strong>Shape shifting</strong></td>
+        <td>Puzzles that change shape as you scramble them. </td>
+    </tr>
+    <tr>
         <td><strong>Side</strong></td>
         <td>A single surface of a Rubik&#039;s cube.</td>
     </tr>
@@ -458,8 +494,16 @@ A glossary of some of the most common speedcubing terms and acronyms.
         <td>On a 3x3, a slice move refers to the notated moves M, E, and S.</td>
     </tr>
     <tr>
+        <td><strong>Smart Cube</strong></td>
+        <td>Usually a 3x3 with the capability to connect to apps or a computer which allows a program to track your moves, start and stop timers, keep a log of what turns you did when you solved.</td>
+    </tr>
+    <tr>
         <td><strong>Solve</strong></td>
         <td>Solved describes the permutation in which the puzzle is done. Almost all twisty puzzles have only one solved permutation.</td>
+    </tr>
+    <tr>
+        <td><strong>Speed mod</strong></td>
+        <td>Modification of a puzzle not to change the solving process but to make the puzzle turn better.</td>
     </tr>
     <tr>
         <td><strong>Speedcube</strong></td>
@@ -472,6 +516,10 @@ A glossary of some of the most common speedcubing terms and acronyms.
     <tr>
         <td><strong>Stack mat</strong></td>
         <td>A timer which requires both hands to be placed on either side of it for it to start and stop.</td>
+    </tr>
+    <tr>
+        <td><strong>Sticker mod</strong></td>
+        <td>When the stickers on a puzzle are changed to something different like a shepherd cube where the stickers are arrows and you need to get all the arrows pointing the same way on all sides.</td>
     </tr>
     <tr>
         <td><strong>Stickered</strong></td>
@@ -488,6 +536,10 @@ A glossary of some of the most common speedcubing terms and acronyms.
     <tr>
         <td><strong>Sune</strong></td>
         <td>The algorithm R U R&#039; U R U2 R&#039;</td>
+    </tr>
+    <tr>
+        <td><strong>Super cube</strong></td>
+        <td>Puzzles which require the center pieces to be rotated correctly for the puzzle to be solved.</td>
     </tr>
 </table>
 
@@ -580,6 +632,22 @@ A glossary of some of the most common speedcubing terms and acronyms.
 ## 0-9
 
 <table>
+    <tr>
+        <td><strong></strong></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td><strong></strong></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td><strong></strong></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td><strong></strong></td>
+        <td></td>
+    </tr>
     <tr>
         <td><strong>+2</strong></td>
         <td>The standard time penalty in WCA competitions, plus two seconds.</td>

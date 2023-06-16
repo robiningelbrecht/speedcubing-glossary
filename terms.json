@@ -1,5 +1,21 @@
 [
     {
+        "name": "",
+        "description": ""
+    },
+    {
+        "name": "",
+        "description": ""
+    },
+    {
+        "name": "",
+        "description": ""
+    },
+    {
+        "name": "",
+        "description": ""
+    },
+    {
         "name": "+2",
         "description": "The standard time penalty in WCA competitions, plus two seconds."
     },
@@ -30,6 +46,10 @@
     {
         "name": "AUF",
         "description": "Adjusting \"U\" Face"
+    },
+    {
+        "name": "Bandaged cube",
+        "description": "Puzzles which restrict the ways you can turn them by having the mechanism designed to get in the way and be annoying."
     },
     {
         "name": "Beginner's method",
@@ -104,6 +124,10 @@
         "description": "Corner pieces, as the name suggests, are located at the corners of the cube."
     },
     {
+        "name": "Corner turning",
+        "description": "uzzles which have their centers on the corner and everything rotates around the corner like a Skewb."
+    },
+    {
         "name": "Corner Twists",
         "description": "Sometimes corners can twist in their place. A puzzle cannot be solved when a single corner twists in it's place"
     },
@@ -136,6 +160,10 @@
         "description": "The action of solving TwistyPuzzles."
     },
     {
+        "name": "Cuboid",
+        "description": " face turning puzzles where at least one of the dimensions is different from the others like a 3x3x5 or a 2x4x6."
+    },
+    {
         "name": "Devil's number",
         "description": "The term devil's number refers to the number of moves required to solve a cube from any starting configuration using a single repeating algorithm. Devil's algorithm is the algorithm needed to achieve this task. To this day, neither man nor machine were able to calculate the devil's algorithm, or the devil\u2019s number, for the 2x2 cube or the other larger models. These calculations result in an unimaginably large number of possibilities that, so far, could not be captured."
     },
@@ -162,6 +190,10 @@
     {
         "name": "ELL",
         "description": "Edges of Last Layer"
+    },
+    {
+        "name": "End by end by end",
+        "description": "Face turning puzzles with the same dimensions on all sides like a 3x3x3, 7x7x7 or 21x21x21."
     },
     {
         "name": "EO",
@@ -202,6 +234,10 @@
     {
         "name": "Fridrich Method",
         "description": "Also known as CFOP, the most common speedsolving method, which solves the cube in the following sequence: Cross-F2L-OLL-PLL"
+    },
+    {
+        "name": "Gear puzzle",
+        "description": "A series of puzzles which have gears as a component of the pieces. As you turn the puzzle the gears spin."
     },
     {
         "name": "Global average",
@@ -248,12 +284,20 @@
         "description": "MagLev is short for magnetic levitation or magnetic levitation force, respectively. Cubes with MagLev construction have in their tensioning system two superimposed magnets whose like poles face, and thus repel, each other."
     },
     {
+        "name": "Magnetic Cube",
+        "description": "Cube with magnets on the pieces which attract each other, allowing the cube to snap into alignment and less likely to lock up from misalignment."
+    },
+    {
         "name": "MBLD",
         "description": "Multi-blindfolded speedcubing - refers to solving cubes blindfolded."
     },
     {
         "name": "Mechanism",
         "description": "The components of a twisty puzzle that allow it to fit together and actually work."
+    },
+    {
+        "name": "Mod",
+        "description": "Any kind of modification done to a puzzle."
     },
     {
         "name": "Move Count",
@@ -344,6 +388,14 @@
         "description": "Refers to the move sequence R U R' U'"
     },
     {
+        "name": "Shape mod",
+        "description": "A puzzle which uses the same mechanism as a simple puzzle like a 3x3 but different shaped pieces to add complexities like shape shifting."
+    },
+    {
+        "name": "Shape shifting",
+        "description": "Puzzles that change shape as you scramble them. "
+    },
+    {
         "name": "Side",
         "description": "A single surface of a Rubik's cube."
     },
@@ -356,8 +408,16 @@
         "description": "On a 3x3, a slice move refers to the notated moves M, E, and S."
     },
     {
+        "name": "Smart Cube",
+        "description": "Usually a 3x3 with the capability to connect to apps or a computer which allows a program to track your moves, start and stop timers, keep a log of what turns you did when you solved."
+    },
+    {
         "name": "Solve",
         "description": "Solved describes the permutation in which the puzzle is done. Almost all twisty puzzles have only one solved permutation."
+    },
+    {
+        "name": "Speed mod",
+        "description": "Modification of a puzzle not to change the solving process but to make the puzzle turn better."
     },
     {
         "name": "Speedcube",
@@ -370,6 +430,10 @@
     {
         "name": "Stack mat",
         "description": "A timer which requires both hands to be placed on either side of it for it to start and stop."
+    },
+    {
+        "name": "Sticker mod",
+        "description": "When the stickers on a puzzle are changed to something different like a shepherd cube where the stickers are arrows and you need to get all the arrows pointing the same way on all sides."
     },
     {
         "name": "Stickered",
@@ -386,6 +450,10 @@
     {
         "name": "Sune",
         "description": "The algorithm R U R' U R U2 R'"
+    },
+    {
+        "name": "Super cube",
+        "description": "Puzzles which require the center pieces to be rotated correctly for the puzzle to be solved."
     },
     {
         "name": "Tension",
