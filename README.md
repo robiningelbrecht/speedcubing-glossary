@@ -43,7 +43,7 @@ A glossary of some of the most common speedcubing terms and acronyms.
     </tr>
     <tr>
         <td><strong>Ao5, Ao12, ...</strong></td>
-        <td>most of the bragging rights within the community go to the best averages solvers can achieve. An Average of 5 (Ao5) is calculated using any five consecutive solves.</td>
+        <td>Most of the bragging rights within the community go to the best averages solves. An Average of 5 (Ao5) is calculated using any five consecutive solves.</td>
     </tr>
     <tr>
         <td><strong>AUF</strong></td>
@@ -551,6 +551,10 @@ A glossary of some of the most common speedcubing terms and acronyms.
         <td>Refers to the tightness or looseness of a screw in the mechanism.</td>
     </tr>
     <tr>
+        <td><strong>Three by three</strong></td>
+        <td> A 3x3 refers to any Rubik&#039;s Cube type puzzle with the dimensions 3x3x3 produced by a company other than Rubik&#039;s.</td>
+    </tr>
+    <tr>
         <td><strong>Torpedos</strong></td>
         <td>Little pieces of plastic that are on the internal part of an edge piece which connect with the corner piece to provide stability.</td>
     </tr>
@@ -643,10 +647,6 @@ A glossary of some of the most common speedcubing terms and acronyms.
     <tr>
         <td><strong>2LLL</strong></td>
         <td>2 Look Last Layer - solving the last layer in two steps or &#039;looks&#039;. For the CFOP method, this generally refers to OLL and PLL.</td>
-    </tr>
-    <tr>
-        <td><strong>3x3</strong></td>
-        <td>The common term for this puzzle. A 3x3 refers to any Rubik&#039;s Cube type puzzle with the dimensions 3x3x3 produced by a company other than Rubik&#039;s.</td>
     </tr>
 </table>
 
