@@ -12,6 +12,10 @@
         "description": "2 Look Last Layer - solving the last layer in two steps or 'looks'. For the CFOP method, this generally refers to OLL and PLL."
     },
     {
+        "name": "3x3",
+        "description": "The common term for this puzzle. A 3x3 refers to any Rubik's Cube type puzzle with the dimensions 3x3x3 produced by a company other than Rubik's."
+    },
+    {
         "name": "Algorithm",
         "description": "An algorithm is a sequence of moves designed to achieve a particular outcome on a puzzle."
     },
@@ -84,6 +88,10 @@
         "description": "A  sequence of moves of the form A-B-A'. Example: (R U2 R') (R' F R F') (R U2 R')"
     },
     {
+        "name": "Core",
+        "description": "The center point of the entire puzzle which all pieces revolve around. It never participates in the solving process. It's purely there for functionality to hold the puzzle together."
+    },
+    {
         "name": "Corner",
         "description": "Refers to the corner pieces on the Rubik's cube, which are the pieces with three different colours."
     },
@@ -108,12 +116,24 @@
         "description": "The cross generally refers to correctly solving 4 edge pieces around a center piece, to form a 'plus' or 'cross' out of the center and edge stickers."
     },
     {
+        "name": "Cube",
+        "description": "The term cube is often used in place of Twisty Puzzle even if the puzzle isn't cube shaped."
+    },
+    {
+        "name": "Cube notation",
+        "description": "The language we use to read and write algorithms."
+    },
+    {
         "name": "Cube Rotation",
         "description": "Rotating the cube in place without turning any of the sides. The three rotational axes used in cube notation are x y and z."
     },
     {
         "name": "Cubelet",
         "description": "A single cube piece is sometimes called a cubelet or cubie."
+    },
+    {
+        "name": "Cubing",
+        "description": "The action of solving TwistyPuzzles."
     },
     {
         "name": "Devil's number",
@@ -168,6 +188,10 @@
         "description": "Fewest moves means you solve a speed cube in as few moves as possible."
     },
     {
+        "name": "Fingertricks",
+        "description": "Flick your fingers to turn a side rather than using your whole hand."
+    },
+    {
         "name": "Florian Mod",
         "description": "Cubes that are said to have a florian mod have curved corners to help the pieces to move more easily around each other."
     },
@@ -180,6 +204,10 @@
         "description": "Also known as CFOP, the most common speedsolving method, which solves the cube in the following sequence: Cross-F2L-OLL-PLL"
     },
     {
+        "name": "Global average",
+        "description": "Overall average time it takes to solve a twisty puzzle."
+    },
+    {
         "name": "God's number",
         "description": "God's number, also called \"God's algorithm\", is the minimum number of moves needed to solve a cube, regardless of the starting configuration."
     },
@@ -190,6 +218,10 @@
     {
         "name": "Inspection",
         "description": "The time used to inspect the cube before starting a solve. In WCA competitions, the maximum inspection time is 15 seconds."
+    },
+    {
+        "name": "Internal edges",
+        "description": "Pieces usually found on even layered cubes."
     },
     {
         "name": "Layer",
@@ -218,6 +250,10 @@
     {
         "name": "MBLD",
         "description": "Multi-blindfolded speedcubing - refers to solving cubes blindfolded."
+    },
+    {
+        "name": "Mechanism",
+        "description": "The components of a twisty puzzle that allow it to fit together and actually work."
     },
     {
         "name": "Move Count",
@@ -252,12 +288,20 @@
         "description": "Parity in a speedsolving context generally refers to additional steps required to solve a puzzle in cases where there are (or appear to be) an odd number of piece swaps on a cube."
     },
     {
+        "name": "Pattern",
+        "description": "Describes specific permutations in which a puzzle looks really cool, like the checkerboard pattern or the cube in a cube pattern"
+    },
+    {
         "name": "PB",
         "description": "If a speedcuber solves a puzzle faster than they have ever done before, it is known as a PB or personal best. "
     },
     {
         "name": "PBL",
         "description": "Permutation of Both Layers, a step used in some common 2x2 methods which permute the top and bottom layer corners."
+    },
+    {
+        "name": "Permutation",
+        "description": "Describes the position a puzzle is currently in."
     },
     {
         "name": "Petrus Method",
@@ -284,6 +328,10 @@
         "description": "A 3x3 speedsolving method developed by Gilles Roux in which 1x2x3 blocks are built on the left and right sides of the cube to begin the solve."
     },
     {
+        "name": "Rubik's Cube",
+        "description": "a puzzle in the form of a plastic cube covered with multicoloured squares, which the player attempts to twist and turn so that all the squares on each face are of the same colour."
+    },
+    {
         "name": "Scramble",
         "description": "A scramble is another simple term that consists of 20 randomly generated moves in standard notation that will leave the cube in an unsolved state ready for a solver to attempt"
     },
@@ -308,6 +356,22 @@
         "description": "On a 3x3, a slice move refers to the notated moves M, E, and S."
     },
     {
+        "name": "Solve",
+        "description": "Solved describes the permutation in which the puzzle is done. Almost all twisty puzzles have only one solved permutation."
+    },
+    {
+        "name": "Speedcube",
+        "description": "Twisty puzzles that are designed for speed and are suitable to be used in competitions."
+    },
+    {
+        "name": "Speedcubing",
+        "description": "The action of solving TwistyPuzzles as fast as possible"
+    },
+    {
+        "name": "Stack mat",
+        "description": "A timer which requires both hands to be placed on either side of it for it to start and stop."
+    },
+    {
         "name": "Stickered",
         "description": "Stickered cubes usually have a monochrome (often black) interior and coloured stickers"
     },
@@ -324,8 +388,24 @@
         "description": "The algorithm R U R' U R U2 R'"
     },
     {
+        "name": "Tension",
+        "description": "Refers to the tightness or looseness of a screw in the mechanism."
+    },
+    {
+        "name": "Torpedos",
+        "description": "Little pieces of plastic that are on the internal part of an edge piece which connect with the corner piece to provide stability."
+    },
+    {
         "name": "TPS",
         "description": "Turns Per Second"
+    },
+    {
+        "name": "Twisty Puzzle",
+        "description": "The politically correct term for Rubik's Cube type puzzle. Any three dimensional puzzle with moving parts and the goal of achieving a solved state like the same color on each side counts as a Twisty Puzzle."
+    },
+    {
+        "name": "Two look OLL \/ PLL",
+        "description": "Complete the OLL \/ PLL steps with two algorithms each"
     },
     {
         "name": "UWR",

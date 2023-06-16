@@ -118,6 +118,10 @@ A glossary of some of the most common speedcubing terms and acronyms.
         <td>A  sequence of moves of the form A-B-A&#039;. Example: (R U2 R&#039;) (R&#039; F R F&#039;) (R U2 R&#039;)</td>
     </tr>
     <tr>
+        <td><strong>Core</strong></td>
+        <td>The center point of the entire puzzle which all pieces revolve around. It never participates in the solving process. It&#039;s purely there for functionality to hold the puzzle together.</td>
+    </tr>
+    <tr>
         <td><strong>Corner</strong></td>
         <td>Refers to the corner pieces on the Rubik&#039;s cube, which are the pieces with three different colours.</td>
     </tr>
@@ -142,12 +146,24 @@ A glossary of some of the most common speedcubing terms and acronyms.
         <td>The cross generally refers to correctly solving 4 edge pieces around a center piece, to form a &#039;plus&#039; or &#039;cross&#039; out of the center and edge stickers.</td>
     </tr>
     <tr>
+        <td><strong>Cube</strong></td>
+        <td>The term cube is often used in place of Twisty Puzzle even if the puzzle isn&#039;t cube shaped.</td>
+    </tr>
+    <tr>
+        <td><strong>Cube notation</strong></td>
+        <td>The language we use to read and write algorithms.</td>
+    </tr>
+    <tr>
         <td><strong>Cube Rotation</strong></td>
         <td>Rotating the cube in place without turning any of the sides. The three rotational axes used in cube notation are x y and z.</td>
     </tr>
     <tr>
         <td><strong>Cubelet</strong></td>
         <td>A single cube piece is sometimes called a cubelet or cubie.</td>
+    </tr>
+    <tr>
+        <td><strong>Cubing</strong></td>
+        <td>The action of solving TwistyPuzzles.</td>
     </tr>
 </table>
 
@@ -217,6 +233,10 @@ A glossary of some of the most common speedcubing terms and acronyms.
         <td>Fewest moves means you solve a speed cube in as few moves as possible.</td>
     </tr>
     <tr>
+        <td><strong>Fingertricks</strong></td>
+        <td>Flick your fingers to turn a side rather than using your whole hand.</td>
+    </tr>
+    <tr>
         <td><strong>Florian Mod</strong></td>
         <td>Cubes that are said to have a florian mod have curved corners to help the pieces to move more easily around each other.</td>
     </tr>
@@ -233,6 +253,10 @@ A glossary of some of the most common speedcubing terms and acronyms.
 ## G
 
 <table>
+    <tr>
+        <td><strong>Global average</strong></td>
+        <td>Overall average time it takes to solve a twisty puzzle.</td>
+    </tr>
     <tr>
         <td><strong>God&#039;s number</strong></td>
         <td>God&#039;s number, also called &quot;God&#039;s algorithm&quot;, is the minimum number of moves needed to solve a cube, regardless of the starting configuration.</td>
@@ -254,6 +278,10 @@ A glossary of some of the most common speedcubing terms and acronyms.
     <tr>
         <td><strong>Inspection</strong></td>
         <td>The time used to inspect the cube before starting a solve. In WCA competitions, the maximum inspection time is 15 seconds.</td>
+    </tr>
+    <tr>
+        <td><strong>Internal edges</strong></td>
+        <td>Pieces usually found on even layered cubes.</td>
     </tr>
 </table>
 
@@ -294,6 +322,10 @@ A glossary of some of the most common speedcubing terms and acronyms.
     <tr>
         <td><strong>MBLD</strong></td>
         <td>Multi-blindfolded speedcubing - refers to solving cubes blindfolded.</td>
+    </tr>
+    <tr>
+        <td><strong>Mechanism</strong></td>
+        <td>The components of a twisty puzzle that allow it to fit together and actually work.</td>
     </tr>
     <tr>
         <td><strong>Move Count</strong></td>
@@ -343,12 +375,20 @@ A glossary of some of the most common speedcubing terms and acronyms.
         <td>Parity in a speedsolving context generally refers to additional steps required to solve a puzzle in cases where there are (or appear to be) an odd number of piece swaps on a cube.</td>
     </tr>
     <tr>
+        <td><strong>Pattern</strong></td>
+        <td>Describes specific permutations in which a puzzle looks really cool, like the checkerboard pattern or the cube in a cube pattern</td>
+    </tr>
+    <tr>
         <td><strong>PB</strong></td>
         <td>If a speedcuber solves a puzzle faster than they have ever done before, it is known as a PB or personal best. </td>
     </tr>
     <tr>
         <td><strong>PBL</strong></td>
         <td>Permutation of Both Layers, a step used in some common 2x2 methods which permute the top and bottom layer corners.</td>
+    </tr>
+    <tr>
+        <td><strong>Permutation</strong></td>
+        <td>Describes the position a puzzle is currently in.</td>
     </tr>
     <tr>
         <td><strong>Petrus Method</strong></td>
@@ -384,6 +424,10 @@ A glossary of some of the most common speedcubing terms and acronyms.
         <td><strong>Roux</strong></td>
         <td>A 3x3 speedsolving method developed by Gilles Roux in which 1x2x3 blocks are built on the left and right sides of the cube to begin the solve.</td>
     </tr>
+    <tr>
+        <td><strong>Rubik&#039;s Cube</strong></td>
+        <td>a puzzle in the form of a plastic cube covered with multicoloured squares, which the player attempts to twist and turn so that all the squares on each face are of the same colour.</td>
+    </tr>
 </table>
 
 ## S
@@ -414,6 +458,22 @@ A glossary of some of the most common speedcubing terms and acronyms.
         <td>On a 3x3, a slice move refers to the notated moves M, E, and S.</td>
     </tr>
     <tr>
+        <td><strong>Solve</strong></td>
+        <td>Solved describes the permutation in which the puzzle is done. Almost all twisty puzzles have only one solved permutation.</td>
+    </tr>
+    <tr>
+        <td><strong>Speedcube</strong></td>
+        <td>Twisty puzzles that are designed for speed and are suitable to be used in competitions.</td>
+    </tr>
+    <tr>
+        <td><strong>Speedcubing</strong></td>
+        <td>The action of solving TwistyPuzzles as fast as possible</td>
+    </tr>
+    <tr>
+        <td><strong>Stack mat</strong></td>
+        <td>A timer which requires both hands to be placed on either side of it for it to start and stop.</td>
+    </tr>
+    <tr>
         <td><strong>Stickered</strong></td>
         <td>Stickered cubes usually have a monochrome (often black) interior and coloured stickers</td>
     </tr>
@@ -435,8 +495,24 @@ A glossary of some of the most common speedcubing terms and acronyms.
 
 <table>
     <tr>
+        <td><strong>Tension</strong></td>
+        <td>Refers to the tightness or looseness of a screw in the mechanism.</td>
+    </tr>
+    <tr>
+        <td><strong>Torpedos</strong></td>
+        <td>Little pieces of plastic that are on the internal part of an edge piece which connect with the corner piece to provide stability.</td>
+    </tr>
+    <tr>
         <td><strong>TPS</strong></td>
         <td>Turns Per Second</td>
+    </tr>
+    <tr>
+        <td><strong>Twisty Puzzle</strong></td>
+        <td>The politically correct term for Rubik&#039;s Cube type puzzle. Any three dimensional puzzle with moving parts and the goal of achieving a solved state like the same color on each side counts as a Twisty Puzzle.</td>
+    </tr>
+    <tr>
+        <td><strong>Two look OLL / PLL</strong></td>
+        <td>Complete the OLL / PLL steps with two algorithms each</td>
     </tr>
 </table>
 
@@ -515,6 +591,10 @@ A glossary of some of the most common speedcubing terms and acronyms.
     <tr>
         <td><strong>2LLL</strong></td>
         <td>2 Look Last Layer - solving the last layer in two steps or &#039;looks&#039;. For the CFOP method, this generally refers to OLL and PLL.</td>
+    </tr>
+    <tr>
+        <td><strong>3x3</strong></td>
+        <td>The common term for this puzzle. A 3x3 refers to any Rubik&#039;s Cube type puzzle with the dimensions 3x3x3 produced by a company other than Rubik&#039;s.</td>
     </tr>
 </table>
 
