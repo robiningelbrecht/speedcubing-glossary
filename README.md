@@ -633,22 +633,6 @@ A glossary of some of the most common speedcubing terms and acronyms.
 
 <table>
     <tr>
-        <td><strong></strong></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td><strong></strong></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td><strong></strong></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td><strong></strong></td>
-        <td></td>
-    </tr>
-    <tr>
         <td><strong>+2</strong></td>
         <td>The standard time penalty in WCA competitions, plus two seconds.</td>
     </tr>
