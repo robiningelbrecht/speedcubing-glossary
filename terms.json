@@ -12,8 +12,8 @@
         "description": "2 Look Last Layer - solving the last layer in two steps or 'looks'. For the CFOP method, this generally refers to OLL and PLL."
     },
     {
-        "name": "3x3",
-        "description": "The common term for this puzzle. A 3x3 refers to any Rubik's Cube type puzzle with the dimensions 3x3x3 produced by a company other than Rubik's."
+        "name": "Three by three",
+        "description": " A 3x3 refers to any Rubik's Cube type puzzle with the dimensions 3x3x3 produced by a company other than Rubik's."
     },
     {
         "name": "Algorithm",
