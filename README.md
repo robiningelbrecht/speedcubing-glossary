@@ -165,6 +165,10 @@ A glossary of some of the most common speedcubing terms and acronyms.
         <td>Corner PLL</td>
     </tr>
     <tr>
+        <td><strong>CR</strong></td>
+        <td>Continental Record</td>
+    </tr>
+    <tr>
         <td><strong>Cross</strong></td>
         <td>The cross generally refers to correctly solving 4 edge pieces around a center piece, to form a &#039;plus&#039; or &#039;cross&#039; out of the center and edge stickers.</td>
     </tr>
@@ -410,6 +414,10 @@ A glossary of some of the most common speedcubing terms and acronyms.
     <tr>
         <td><strong>Niklas</strong></td>
         <td>The algorithm R U&#039; L&#039; U R&#039; U&#039; L, which re-orients 3 corners clockwise.</td>
+    </tr>
+    <tr>
+        <td><strong>NR</strong></td>
+        <td>National Record</td>
     </tr>
 </table>
 

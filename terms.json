@@ -132,6 +132,10 @@
         "description": "Corner PLL"
     },
     {
+        "name": "CR",
+        "description": "Continental Record"
+    },
+    {
         "name": "Cross",
         "description": "The cross generally refers to correctly solving 4 edge pieces around a center piece, to form a 'plus' or 'cross' out of the center and edge stickers."
     },
@@ -330,6 +334,10 @@
     {
         "name": "Niklas",
         "description": "The algorithm R U' L' U R' U' L, which re-orients 3 corners clockwise."
+    },
+    {
+        "name": "NR",
+        "description": "National Record"
     },
     {
         "name": "OH",
