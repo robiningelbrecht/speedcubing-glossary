@@ -67,7 +67,7 @@ A glossary of some of the most common speedcubing terms and acronyms.
     </tr>
     <tr>
         <td><strong>Beginner&#039;s method</strong></td>
-        <td>A beginner&#039;s method refers to speedsolving methods designed for beginners, which often have many steps to simplify the process.</td>
+        <td>A beginner&#039;s method refers to Speed-solving methods designed for beginners, which often have many steps to simplify the process.</td>
     </tr>
     <tr>
         <td><strong>BLD</strong></td>
@@ -96,7 +96,7 @@ A glossary of some of the most common speedcubing terms and acronyms.
     </tr>
     <tr>
         <td><strong>CFOP</strong></td>
-        <td>The most common speedsolving method, which solves the cube in the following sequence: Cross-F2L-OLL-PLL</td>
+        <td>The most common Speed-solving method, which solves the cube in the following sequence: Cross-F2L-OLL-PLL</td>
     </tr>
     <tr>
         <td><strong>CLL</strong></td>
@@ -105,6 +105,10 @@ A glossary of some of the most common speedcubing terms and acronyms.
     <tr>
         <td><strong>CLS</strong></td>
         <td>Corner Last Slot. CLS algorithms solve the last F2L corner and orient your last layer at the same time. They are used when the edge of your final F2L pair is already solved, and the last layer edges are oriented.</td>
+    </tr>
+    <tr>
+        <td><strong>CMLL</strong></td>
+        <td>Corners of the Last Layer in a Roux solve</td>
     </tr>
     <tr>
         <td><strong>COLL</strong></td>
@@ -155,6 +159,10 @@ A glossary of some of the most common speedcubing terms and acronyms.
     <tr>
         <td><strong>CP</strong></td>
         <td>Corner Permutation</td>
+    </tr>
+    <tr>
+        <td><strong>CPLL</strong></td>
+        <td>Corner PLL</td>
     </tr>
     <tr>
         <td><strong>Cross</strong></td>
@@ -219,6 +227,10 @@ A glossary of some of the most common speedcubing terms and acronyms.
         <td>Edge pieces are the outer pieces located between the corner pieces of a cube. A 3x3 cube, therefore, has one piece per side between the corner pieces, a 4x4 cube two pieces per side.</td>
     </tr>
     <tr>
+        <td><strong>EG</strong></td>
+        <td>Speed-solving method for a 2x2</td>
+    </tr>
+    <tr>
         <td><strong>ELL</strong></td>
         <td>Edges of Last Layer</td>
     </tr>
@@ -233,6 +245,10 @@ A glossary of some of the most common speedcubing terms and acronyms.
     <tr>
         <td><strong>EP</strong></td>
         <td>Edge Permutation</td>
+    </tr>
+    <tr>
+        <td><strong>EPLL</strong></td>
+        <td>Edge PLL, as in the subset of PLL algorithms that only move the edges</td>
     </tr>
     <tr>
         <td><strong>Extended Cross</strong></td>
@@ -257,7 +273,7 @@ A glossary of some of the most common speedcubing terms and acronyms.
     </tr>
     <tr>
         <td><strong>Fingertricks</strong></td>
-        <td>Flick your fingers to turn a side rather than using your whole hand.</td>
+        <td>Refers to any improvements to the way you actually perform the moves with your hands.</td>
     </tr>
     <tr>
         <td><strong>Florian Mod</strong></td>
@@ -269,7 +285,7 @@ A glossary of some of the most common speedcubing terms and acronyms.
     </tr>
     <tr>
         <td><strong>Fridrich Method</strong></td>
-        <td>Also known as CFOP, the most common speedsolving method, which solves the cube in the following sequence: Cross-F2L-OLL-PLL</td>
+        <td>Also known as CFOP, the most common Speed-solving method, which solves the cube in the following sequence: Cross-F2L-OLL-PLL</td>
     </tr>
 </table>
 
@@ -286,7 +302,7 @@ A glossary of some of the most common speedcubing terms and acronyms.
     </tr>
     <tr>
         <td><strong>God&#039;s number</strong></td>
-        <td>God&#039;s number, also called &quot;God&#039;s algorithm&quot;, is the minimum number of moves needed to solve a cube, regardless of the starting configuration.</td>
+        <td>God&#039;s number, also called &quot;God&#039;s algorithm&quot;, is the maximum number of moves needed to solve a cube, regardless of the starting configuration.</td>
     </tr>
 </table>
 
@@ -296,6 +312,10 @@ A glossary of some of the most common speedcubing terms and acronyms.
     <tr>
         <td><strong>Half-Turn</strong></td>
         <td>Any 180 degree turn of the Rubik&#039;s cube.</td>
+    </tr>
+    <tr>
+        <td><strong>Hedgeslammer</strong></td>
+        <td>Refers to the move sequence F R&#039; F&#039; R</td>
     </tr>
 </table>
 
@@ -337,11 +357,19 @@ A glossary of some of the most common speedcubing terms and acronyms.
         <td><strong>Look-Ahead</strong></td>
         <td>Planning future stages of a speedsolve whilst executing moves to solve the pieces of the current stage.</td>
     </tr>
+    <tr>
+        <td><strong>LSE</strong></td>
+        <td>Last Six Edges in a Roux solve</td>
+    </tr>
 </table>
 
 ## M
 
 <table>
+    <tr>
+        <td><strong>M2</strong></td>
+        <td>A blindfolded speedcubing method</td>
+    </tr>
     <tr>
         <td><strong>MagLev</strong></td>
         <td>MagLev is short for magnetic levitation or magnetic levitation force, respectively. Cubes with MagLev construction have in their tensioning system two superimposed magnets whose like poles face, and thus repel, each other.</td>
@@ -357,6 +385,10 @@ A glossary of some of the most common speedcubing terms and acronyms.
     <tr>
         <td><strong>Mechanism</strong></td>
         <td>The components of a twisty puzzle that allow it to fit together and actually work.</td>
+    </tr>
+    <tr>
+        <td><strong>Mo3</strong></td>
+        <td>Mean of 3</td>
     </tr>
     <tr>
         <td><strong>Mod</strong></td>
@@ -397,6 +429,14 @@ A glossary of some of the most common speedcubing terms and acronyms.
         <td>Orientation of Last Layer + Corner Permutation</td>
     </tr>
     <tr>
+        <td><strong>OP</strong></td>
+        <td>Old Pochmann, a blindfolded speedcubing method</td>
+    </tr>
+    <tr>
+        <td><strong>Ortega</strong></td>
+        <td>Speed-solving method for a 2x2</td>
+    </tr>
+    <tr>
         <td><strong>Overshooting</strong></td>
         <td>Overshooting describes a rotation that goes further than desired. For example, you intend to rotate a layer by 90 degrees, but due to high speed, it overshoots and turns 180 degrees instead.</td>
     </tr>
@@ -407,7 +447,7 @@ A glossary of some of the most common speedcubing terms and acronyms.
 <table>
     <tr>
         <td><strong>Parity</strong></td>
-        <td>Parity in a speedsolving context generally refers to additional steps required to solve a puzzle in cases where there are (or appear to be) an odd number of piece swaps on a cube.</td>
+        <td>Parity in a Speed-solving context generally refers to additional steps required to solve a puzzle in cases where there are (or appear to be) an odd number of piece swaps on a cube.</td>
     </tr>
     <tr>
         <td><strong>Pattern</strong></td>
@@ -422,12 +462,16 @@ A glossary of some of the most common speedcubing terms and acronyms.
         <td>Permutation of Both Layers, a step used in some common 2x2 methods which permute the top and bottom layer corners.</td>
     </tr>
     <tr>
+        <td><strong>Perm</strong></td>
+        <td>Such as G-Perm. Nickname used when talking about the PLL algorithms</td>
+    </tr>
+    <tr>
         <td><strong>Permutation</strong></td>
         <td>Describes the position a puzzle is currently in.</td>
     </tr>
     <tr>
         <td><strong>Petrus Method</strong></td>
-        <td>A 3x3 speedsolving method developed by Lars Petrus which has a strong emphasis on blockbuilding.</td>
+        <td>A 3x3 Speed-solving method developed by Lars Petrus which has a strong emphasis on blockbuilding.</td>
     </tr>
     <tr>
         <td><strong>PLL</strong></td>
@@ -436,6 +480,10 @@ A glossary of some of the most common speedcubing terms and acronyms.
     <tr>
         <td><strong>Popping</strong></td>
         <td>Since the pieces of a cube can move around it is possible for them to pop out completely. It can be caused by loose tensions, rough turning, or be result of the mechanism that is used in a specific puzzle.</td>
+    </tr>
+    <tr>
+        <td><strong>PR</strong></td>
+        <td>Personal Record (official PB, in competition)</td>
     </tr>
 </table>
 
@@ -457,7 +505,7 @@ A glossary of some of the most common speedcubing terms and acronyms.
     </tr>
     <tr>
         <td><strong>Roux</strong></td>
-        <td>A 3x3 speedsolving method developed by Gilles Roux in which 1x2x3 blocks are built on the left and right sides of the cube to begin the solve.</td>
+        <td>A 3x3 Speed-solving method developed by Gilles Roux in which 1x2x3 blocks are built on the left and right sides of the cube to begin the solve.</td>
     </tr>
     <tr>
         <td><strong>Rubik&#039;s Cube</strong></td>
@@ -562,12 +610,20 @@ A glossary of some of the most common speedcubing terms and acronyms.
         <td> A 3x3 refers to any Rubik&#039;s Cube type puzzle with the dimensions 3x3x3 produced by a company other than Rubik&#039;s.</td>
     </tr>
     <tr>
+        <td><strong>Top First</strong></td>
+        <td>Speed-solving method for a pyraminx</td>
+    </tr>
+    <tr>
         <td><strong>Torpedos</strong></td>
         <td>Little pieces of plastic that are on the internal part of an edge piece which connect with the corner piece to provide stability.</td>
     </tr>
     <tr>
         <td><strong>TPS</strong></td>
         <td>Turns Per Second</td>
+    </tr>
+    <tr>
+        <td><strong>Truncated/trimmed mean</strong></td>
+        <td>Exclude the best and the worst times and then calculate the average of the remaining ones.</td>
     </tr>
     <tr>
         <td><strong>Twisty Puzzle</strong></td>
@@ -584,13 +640,17 @@ A glossary of some of the most common speedcubing terms and acronyms.
 <table>
     <tr>
         <td><strong>UWR</strong></td>
-        <td>Turns Per Second</td>
+        <td>Unofficial World Record</td>
     </tr>
 </table>
 
 ## V
 
 <table>
+    <tr>
+        <td><strong>V First</strong></td>
+        <td>Speed-solving method for a pyraminx</td>
+    </tr>
     <tr>
         <td><strong>VLS</strong></td>
         <td>Valk Last Slot. VLS algorithms solve the final F2L slot and OLL at the same time, in the cases where you have a connected F2L pair.</td>
@@ -619,7 +679,7 @@ A glossary of some of the most common speedcubing terms and acronyms.
 <table>
     <tr>
         <td><strong>Yau</strong></td>
-        <td>A big cube speedsolving method proposed by Robert Yau, whereby the cross is solved before the cube is fully reduced to the 3x3 stage.</td>
+        <td>A big cube Speed-solving method proposed by Robert Yau, whereby the cross is solved before the cube is fully reduced to the 3x3 stage.</td>
     </tr>
 </table>
 
@@ -636,7 +696,7 @@ A glossary of some of the most common speedcubing terms and acronyms.
     </tr>
     <tr>
         <td><strong>ZZ</strong></td>
-        <td>A 3x3 speedsolving method created by Zbiginiew Zborowski in which the first step involves orienting all edges on the cube.</td>
+        <td>A 3x3 Speed-solving method created by Zbiginiew Zborowski in which the first step involves orienting all edges on the cube.</td>
     </tr>
 </table>
 
@@ -648,12 +708,20 @@ A glossary of some of the most common speedcubing terms and acronyms.
         <td>The standard time penalty in WCA competitions, plus two seconds.</td>
     </tr>
     <tr>
+        <td><strong>2-gen (or 3-gen or etc)</strong></td>
+        <td>An algorithm that only moves 2 faces (or 3 or etc).</td>
+    </tr>
+    <tr>
         <td><strong>2GLL</strong></td>
         <td>2-Generator Last Layer. These algorithms are used for the ZBLL cases which require only edge permutation and corner orientation.</td>
     </tr>
     <tr>
         <td><strong>2LLL</strong></td>
         <td>2 Look Last Layer - solving the last layer in two steps or &#039;looks&#039;. For the CFOP method, this generally refers to OLL and PLL.</td>
+    </tr>
+    <tr>
+        <td><strong>3-style</strong></td>
+        <td>A blindfolded speedcubing method</td>
     </tr>
 </table>
 

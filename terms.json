@@ -4,12 +4,20 @@
         "description": "The standard time penalty in WCA competitions, plus two seconds."
     },
     {
+        "name": "2-gen (or 3-gen or etc)",
+        "description": "An algorithm that only moves 2 faces (or 3 or etc)."
+    },
+    {
         "name": "2GLL",
         "description": "2-Generator Last Layer. These algorithms are used for the ZBLL cases which require only edge permutation and corner orientation."
     },
     {
         "name": "2LLL",
         "description": "2 Look Last Layer - solving the last layer in two steps or 'looks'. For the CFOP method, this generally refers to OLL and PLL."
+    },
+    {
+        "name": "3-style",
+        "description": "A blindfolded speedcubing method"
     },
     {
         "name": "Algorithm",
@@ -33,7 +41,7 @@
     },
     {
         "name": "Beginner's method",
-        "description": "A beginner's method refers to speedsolving methods designed for beginners, which often have many steps to simplify the process."
+        "description": "A beginner's method refers to Speed-solving methods designed for beginners, which often have many steps to simplify the process."
     },
     {
         "name": "BLD",
@@ -57,7 +65,7 @@
     },
     {
         "name": "CFOP",
-        "description": "The most common speedsolving method, which solves the cube in the following sequence: Cross-F2L-OLL-PLL"
+        "description": "The most common Speed-solving method, which solves the cube in the following sequence: Cross-F2L-OLL-PLL"
     },
     {
         "name": "CLL",
@@ -66,6 +74,10 @@
     {
         "name": "CLS",
         "description": "Corner Last Slot. CLS algorithms solve the last F2L corner and orient your last layer at the same time. They are used when the edge of your final F2L pair is already solved, and the last layer edges are oriented."
+    },
+    {
+        "name": "CMLL",
+        "description": "Corners of the Last Layer in a Roux solve"
     },
     {
         "name": "COLL",
@@ -114,6 +126,10 @@
     {
         "name": "CP",
         "description": "Corner Permutation"
+    },
+    {
+        "name": "CPLL",
+        "description": "Corner PLL"
     },
     {
         "name": "Cross",
@@ -168,6 +184,10 @@
         "description": "Edge pieces are the outer pieces located between the corner pieces of a cube. A 3x3 cube, therefore, has one piece per side between the corner pieces, a 4x4 cube two pieces per side."
     },
     {
+        "name": "EG",
+        "description": "Speed-solving method for a 2x2"
+    },
+    {
         "name": "ELL",
         "description": "Edges of Last Layer"
     },
@@ -182,6 +202,10 @@
     {
         "name": "EP",
         "description": "Edge Permutation"
+    },
+    {
+        "name": "EPLL",
+        "description": "Edge PLL, as in the subset of PLL algorithms that only move the edges"
     },
     {
         "name": "Extended Cross",
@@ -201,7 +225,7 @@
     },
     {
         "name": "Fingertricks",
-        "description": "Flick your fingers to turn a side rather than using your whole hand."
+        "description": "Refers to any improvements to the way you actually perform the moves with your hands."
     },
     {
         "name": "Florian Mod",
@@ -213,7 +237,7 @@
     },
     {
         "name": "Fridrich Method",
-        "description": "Also known as CFOP, the most common speedsolving method, which solves the cube in the following sequence: Cross-F2L-OLL-PLL"
+        "description": "Also known as CFOP, the most common Speed-solving method, which solves the cube in the following sequence: Cross-F2L-OLL-PLL"
     },
     {
         "name": "Gear puzzle",
@@ -225,11 +249,15 @@
     },
     {
         "name": "God's number",
-        "description": "God's number, also called \"God's algorithm\", is the minimum number of moves needed to solve a cube, regardless of the starting configuration."
+        "description": "God's number, also called \"God's algorithm\", is the maximum number of moves needed to solve a cube, regardless of the starting configuration."
     },
     {
         "name": "Half-Turn",
         "description": "Any 180 degree turn of the Rubik's cube."
+    },
+    {
+        "name": "Hedgeslammer",
+        "description": "Refers to the move sequence F R' F' R"
     },
     {
         "name": "Inspection",
@@ -260,6 +288,14 @@
         "description": "Planning future stages of a speedsolve whilst executing moves to solve the pieces of the current stage."
     },
     {
+        "name": "LSE",
+        "description": "Last Six Edges in a Roux solve"
+    },
+    {
+        "name": "M2",
+        "description": "A blindfolded speedcubing method"
+    },
+    {
         "name": "MagLev",
         "description": "MagLev is short for magnetic levitation or magnetic levitation force, respectively. Cubes with MagLev construction have in their tensioning system two superimposed magnets whose like poles face, and thus repel, each other."
     },
@@ -274,6 +310,10 @@
     {
         "name": "Mechanism",
         "description": "The components of a twisty puzzle that allow it to fit together and actually work."
+    },
+    {
+        "name": "Mo3",
+        "description": "Mean of 3"
     },
     {
         "name": "Mod",
@@ -304,12 +344,20 @@
         "description": "Orientation of Last Layer + Corner Permutation"
     },
     {
+        "name": "OP",
+        "description": "Old Pochmann, a blindfolded speedcubing method"
+    },
+    {
+        "name": "Ortega",
+        "description": "Speed-solving method for a 2x2"
+    },
+    {
         "name": "Overshooting",
         "description": "Overshooting describes a rotation that goes further than desired. For example, you intend to rotate a layer by 90 degrees, but due to high speed, it overshoots and turns 180 degrees instead."
     },
     {
         "name": "Parity",
-        "description": "Parity in a speedsolving context generally refers to additional steps required to solve a puzzle in cases where there are (or appear to be) an odd number of piece swaps on a cube."
+        "description": "Parity in a Speed-solving context generally refers to additional steps required to solve a puzzle in cases where there are (or appear to be) an odd number of piece swaps on a cube."
     },
     {
         "name": "Pattern",
@@ -324,12 +372,16 @@
         "description": "Permutation of Both Layers, a step used in some common 2x2 methods which permute the top and bottom layer corners."
     },
     {
+        "name": "Perm",
+        "description": "Such as G-Perm. Nickname used when talking about the PLL algorithms"
+    },
+    {
         "name": "Permutation",
         "description": "Describes the position a puzzle is currently in."
     },
     {
         "name": "Petrus Method",
-        "description": "A 3x3 speedsolving method developed by Lars Petrus which has a strong emphasis on blockbuilding."
+        "description": "A 3x3 Speed-solving method developed by Lars Petrus which has a strong emphasis on blockbuilding."
     },
     {
         "name": "PLL",
@@ -338,6 +390,10 @@
     {
         "name": "Popping",
         "description": "Since the pieces of a cube can move around it is possible for them to pop out completely. It can be caused by loose tensions, rough turning, or be result of the mechanism that is used in a specific puzzle."
+    },
+    {
+        "name": "PR",
+        "description": "Personal Record (official PB, in competition)"
     },
     {
         "name": "Quarter Turn",
@@ -349,7 +405,7 @@
     },
     {
         "name": "Roux",
-        "description": "A 3x3 speedsolving method developed by Gilles Roux in which 1x2x3 blocks are built on the left and right sides of the cube to begin the solve."
+        "description": "A 3x3 Speed-solving method developed by Gilles Roux in which 1x2x3 blocks are built on the left and right sides of the cube to begin the solve."
     },
     {
         "name": "Rubik's Cube",
@@ -444,12 +500,20 @@
         "description": " A 3x3 refers to any Rubik's Cube type puzzle with the dimensions 3x3x3 produced by a company other than Rubik's."
     },
     {
+        "name": "Top First",
+        "description": "Speed-solving method for a pyraminx"
+    },
+    {
         "name": "Torpedos",
         "description": "Little pieces of plastic that are on the internal part of an edge piece which connect with the corner piece to provide stability."
     },
     {
         "name": "TPS",
         "description": "Turns Per Second"
+    },
+    {
+        "name": "Truncated\/trimmed mean",
+        "description": "Exclude the best and the worst times and then calculate the average of the remaining ones."
     },
     {
         "name": "Twisty Puzzle",
@@ -461,7 +525,11 @@
     },
     {
         "name": "UWR",
-        "description": "Turns Per Second"
+        "description": "Unofficial World Record"
+    },
+    {
+        "name": "V First",
+        "description": "Speed-solving method for a pyraminx"
     },
     {
         "name": "VLS",
@@ -481,7 +549,7 @@
     },
     {
         "name": "Yau",
-        "description": "A big cube speedsolving method proposed by Robert Yau, whereby the cross is solved before the cube is fully reduced to the 3x3 stage."
+        "description": "A big cube Speed-solving method proposed by Robert Yau, whereby the cross is solved before the cube is fully reduced to the 3x3 stage."
     },
     {
         "name": "ZBF2L",
@@ -493,6 +561,6 @@
     },
     {
         "name": "ZZ",
-        "description": "A 3x3 speedsolving method created by Zbiginiew Zborowski in which the first step involves orienting all edges on the cube."
+        "description": "A 3x3 Speed-solving method created by Zbiginiew Zborowski in which the first step involves orienting all edges on the cube."
     }
 ]
