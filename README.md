@@ -202,8 +202,12 @@ A glossary of some of the most common speedcubing terms and acronyms.
 
 <table>
     <tr>
+        <td><strong>Devil&#039;s algorithm</strong></td>
+        <td>A set of moves that when applied, repeatedly if necessary, will eventually return a Rubik&#039;s Cube to a solved state regardless of the starting configuration.</td>
+    </tr>
+    <tr>
         <td><strong>Devil&#039;s number</strong></td>
-        <td>The term devil&#039;s number refers to the number of moves required to solve a cube from any starting configuration using a single repeating algorithm. Devil&#039;s algorithm is the algorithm needed to achieve this task. To this day, neither man nor machine were able to calculate the devil&#039;s algorithm, or the devil’s number, for the 2x2 cube or the other larger models. These calculations result in an unimaginably large number of possibilities that, so far, could not be captured.</td>
+        <td>Refers to the number of moves required to solve a cube from any starting configuration using a single repeating algorithm. Devil&#039;s algorithm is the algorithm needed to achieve this task. To this day, neither man nor machine were able to calculate the devil&#039;s algorithm, or the devil’s number, for the 2x2 cube or the other larger models. These calculations result in an unimaginably large number of possibilities that, so far, could not be captured.</td>
     </tr>
     <tr>
         <td><strong>DNF</strong></td>
@@ -237,10 +241,6 @@ A glossary of some of the most common speedcubing terms and acronyms.
     <tr>
         <td><strong>ELL</strong></td>
         <td>Edges of Last Layer</td>
-    </tr>
-    <tr>
-        <td><strong>End by end by end</strong></td>
-        <td>Face turning puzzles with the same dimensions on all sides like a 3x3x3, 7x7x7 or 21x21x21.</td>
     </tr>
     <tr>
         <td><strong>EO</strong></td>
@@ -411,6 +411,10 @@ A glossary of some of the most common speedcubing terms and acronyms.
 ## N
 
 <table>
+    <tr>
+        <td><strong>N by N by N</strong></td>
+        <td>Face turning puzzles with the same dimensions on all sides like a 3x3x3, 7x7x7 or 21x21x21.</td>
+    </tr>
     <tr>
         <td><strong>Niklas</strong></td>
         <td>The algorithm R U&#039; L&#039; U R&#039; U&#039; L, which re-orients 3 corners clockwise.</td>

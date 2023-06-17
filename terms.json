@@ -164,8 +164,12 @@
         "description": " face turning puzzles where at least one of the dimensions is different from the others like a 3x3x5 or a 2x4x6."
     },
     {
+        "name": "Devil's algorithm",
+        "description": "A set of moves that when applied, repeatedly if necessary, will eventually return a Rubik's Cube to a solved state regardless of the starting configuration."
+    },
+    {
         "name": "Devil's number",
-        "description": "The term devil's number refers to the number of moves required to solve a cube from any starting configuration using a single repeating algorithm. Devil's algorithm is the algorithm needed to achieve this task. To this day, neither man nor machine were able to calculate the devil's algorithm, or the devil\u2019s number, for the 2x2 cube or the other larger models. These calculations result in an unimaginably large number of possibilities that, so far, could not be captured."
+        "description": "Refers to the number of moves required to solve a cube from any starting configuration using a single repeating algorithm. Devil's algorithm is the algorithm needed to achieve this task. To this day, neither man nor machine were able to calculate the devil's algorithm, or the devil\u2019s number, for the 2x2 cube or the other larger models. These calculations result in an unimaginably large number of possibilities that, so far, could not be captured."
     },
     {
         "name": "DNF",
@@ -194,10 +198,6 @@
     {
         "name": "ELL",
         "description": "Edges of Last Layer"
-    },
-    {
-        "name": "End by end by end",
-        "description": "Face turning puzzles with the same dimensions on all sides like a 3x3x3, 7x7x7 or 21x21x21."
     },
     {
         "name": "EO",
@@ -330,6 +330,10 @@
     {
         "name": "Multislotting",
         "description": "Intentionally inserting F2L pairs in a manner which influences subsequent F2L pairs in your favour."
+    },
+    {
+        "name": "N by N by N",
+        "description": "Face turning puzzles with the same dimensions on all sides like a 3x3x3, 7x7x7 or 21x21x21."
     },
     {
         "name": "Niklas",
