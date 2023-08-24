@@ -391,6 +391,10 @@ A glossary of some of the most common speedcubing terms and acronyms.
         <td>The components of a twisty puzzle that allow it to fit together and actually work.</td>
     </tr>
     <tr>
+        <td><strong>Misscramble</strong></td>
+        <td>When a competitor gets a scrambles cube that does not match the computer generated scramble intended for that solve.</td>
+    </tr>
+    <tr>
         <td><strong>Mo3</strong></td>
         <td>Mean of 3</td>
     </tr>

@@ -316,6 +316,10 @@
         "description": "The components of a twisty puzzle that allow it to fit together and actually work."
     },
     {
+        "name": "Misscramble",
+        "description": "When a competitor gets a scrambles cube that does not match the computer generated scramble intended for that solve."
+    },
+    {
         "name": "Mo3",
         "description": "Mean of 3"
     },
